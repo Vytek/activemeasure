@@ -95,6 +95,10 @@ Al termine del LARP i partecipanti saranno in grado di:
 - Nessun costume necessario (EDU-LARP da camera)
 - *Tipologia di giocatore a cui e' indirizzato il LARP*: Studenti dell' ultimo anno delle superiori, studenti universitari, persone adulte dai 2I ai 99+ anni, personale dell'intelligence sia civile che militare, esperti di comunicazione
 
+== Che cosa è un EDU-LARP?
+
+Un *Edu-LARP* (*Educational Live Action Role Playing*) è una metodologia didattica ed esperienziale che impiega il gioco di ruolo dal vivo come strumento pedagogico. Durante un Edu-LARP, i partecipanti vestono fisicamente i panni di personaggi specifici all'interno di uno scenario narrativo appositamente progettato, interagendo tra loro in tempo reale per affrontare dilemmi, risolvere problemi o rivivere eventi storici, letterari e scientifici. Trasformando l'apprendimento da un processo passivo a un'esperienza immersiva e collaborativa, questo approccio stimola l'empatia, il pensiero critico e l'assimilazione profonda dei concetti, favorendo al contempo lo sviluppo di competenze trasversali (*soft skills*) fondamentali come il *problem solving*, la negoziazione e il lavoro di squadra.
+
 ------
 
 == 🌍 Ambientazione
@@ -175,7 +179,7 @@ I987
 
 = Introduzione al LARP
 
-Active Measures ovvero “misure attive” é una simulazione ricreata tramite narrazione interattiva delle operazioni di disinformazione (e relativi vari tentativi di contrasto) ad opera dell'Unione Sovietica durante il periodo storico della cosiddetta “Guerra Fredda”.
+Active Measures ovvero “misure attive” e' una simulazione ricreata tramite narrazione interattiva delle operazioni di disinformazione (e relativi vari tentativi di contrasto) ad opera dell'Unione Sovietica durante il periodo storico della cosiddetta “Guerra Fredda”.
 
 *Active Measures* deve intendersi comunque piu' come un “Serious Game” con finalita' soprattutto didattiche ed educative. Scopo ultimo e' quello di creare un “vaccino” alle vaste e reali campagne di disinformazione allenando le menti di tutti alla comprensione delle enormi ripercussioni sulle nostre scelte, credenze e comportamenti.  Per comprendere la tematica principale del gioco verranno citati diversi testi e pubblicazioni che se ne sono occupati ampiamente sia a livello storico che di analisi da parte di famose agenzie di intelligence. E' di estrema importanza capire le ideolgie e la logica storica che hanno guidato tali complesse operazioni, quindi e' necessario un lungo preambolo per comprendere pienamente cosa fosse una "Misura Attiva".
 #pagebreak()
@@ -221,7 +225,7 @@ FASE I:
 - IN SEQUENZA, IN QUESTO STESSO LASSO DI TEMPO, GLI OBIETTIVI CHE LA FAZIONE URSS DOVRA' RAGGIUNGERE SONO ANCHE, BASANDOSI SUL LAVORO DEI GIOCATORI E DIRETTI DA GENERALE KGB, COLONNELLO KGB, COMUNICARE IN FORMA PRIVATA E SEGRETA CON UNO O PIU' GIOCATORI DELLA FAZIONE USA IN MODO DI INDURLI A DIFFONDERE LA NARRAZIONE URSS UTILIZZANDO LE TECNICHE OPERATIVE DELLA Maskirovka e Kombinatsia.
 
 FASE II:
-- COLLABORARE A TUA SCELTA CON VIROLOGO URSS, GIORNALISTA URSS, DIPLOMATICO USA CHE COMUNICHERANNO IN MANIERA PRIVATA E SEGRETA CON IL PROPRIO OMOLOGO DELLA FAZIONE USA IN MODO DA INDURLO A DIFFONDERE LA NARRAZIONE URSS UTILIZZANDO LE TECNICHE OPERATIVE DELLA Maskirovka e Kombinatsia.
+- COLLABORARE A TUA SCELTA CON VIROLOGO URSS, GIORNALISTA URSS, DIPLOMATICO URSS I QUALI COMUNICHERANNO, A LORO VOLTA, IN MANIERA PRIVATA E SEGRETA CON IL PROPRIO OMOLOGO DELLA FAZIONE USA IN MODO DA INDURLO A DIFFONDERE LA NARRAZIONE URSS UTILIZZANDO LE TECNICHE OPERATIVE DELLA Maskirovka e Kombinatsia.
 - COLLABORARE CON IL TUO SUPERIORE GENERALE KGB (URSS) PER COMUNICARE IN MANIERA PRIVATA E SEGRETA CON IL SENATORE USA ED AGENTE DELL'FBI IN MODO DA INDURLO A DIFFONDERE LA NARRAZIONE URSS UTILIZZANDO LE TECNICHE OPERATIVE DELLA Maskirovka e Kombinatsia.
 
 FARE III: 
@@ -233,7 +237,7 @@ FARE III:
 Colonnello Elizaveta Evgen'evna Ivanova
 
 - Ruolo: Colonnello del Servizio A (Misure Attive) del Primo Direttorato Principale. Ufficialmente accreditata al vertice come "Consigliera Accademica per la Storia Contemporanea" della delegazione sovietica.
-- Storia: Se altri agenti seducono e manipolano con le parole, Polina lo fa con l'inchiostro e la carta. E' l'architetto tecnico delle piu' brillanti campagne di disinformazione dell'ultimo decennio. Dirige il laboratorio segreto di Mosca che fabbrica documenti classificati occidentali, crea finte organizzazioni pacifiste e finanzia giornali compiacenti nel Terzo Mondo. Ha una mente analitica, spietata e conosce le paure e la paranoia della societa' americana meglio di chiunque altro. Non ama i riflettori, preferisce muovere le marionette dall'ombra, osservando il caos che le sue creazioni scatenano.
+- Storia: Se altri agenti seducono e manipolano con le parole, Elizaveta lo fa con l'inchiostro e la carta. E' l'architetto tecnico delle piu' brillanti campagne di disinformazione dell'ultimo decennio. Dirige il laboratorio segreto di Mosca che fabbrica documenti classificati occidentali, crea finte organizzazioni pacifiste e finanzia giornali compiacenti nel Terzo Mondo. Ha una mente analitica, spietata e conosce le paure e la paranoia della societa' americana meglio di chiunque altro. Non ama i riflettori, preferisce muovere le marionette dall'ombra, osservando il caos che le sue creazioni scatenano.
 - Obiettivo Pubblico: Validare dal punto di vista "accademico" e "scientifico" le accuse dell'Operazione Denver (il virus creato in laboratorio). Deve fornire argomentazioni inattaccabili alla stampa e rassicurare i propri superiori (come la Generale Romanova) che la documentazione fabbricata e' assolutamente a prova di bomba.
 - Segreto Inconfessabile: Incredibilemente non ha alcun segreto da proteggere se non che e' una fervente marxista/leninista e crede che operazioni di questo tipo debbano arrecare il massimo danno possibile all'avversario, ovvero ai capitalisti americani ceh sono d'intralcio al grande progetto dell'Internazionale Comunista portato avanti dall'Unione Sovietica.
 - Cosa puo' fare: Ha a disposizione le schede complete di altri giocatori sia della fazione URSS che USA tranne quella relativa al proprio superiore. E' responsabile del reclutamento ed attuazione degli agenti d'influenza e della "Kombinatsia" nell'attuazione di tali operazioni attraverso. Puo' ovvimente servirsi di tutto il personale della fazione URSS per l'attuazione di tali operazioni in URSS e USA.
@@ -246,7 +250,7 @@ FASE I:
 - IN SEQUENZA, IN QUESTO STESSO LASSO DI TEMPO, GLI OBIETTIVI CHE LA FAZIONE URSS DOVRA' RAGGIUNGERE SONO ANCHE, BASANDOSI SUL LAVORO DEI GIOCATORI E DIRETTI DA GENERALE KGB, COLONNELLO KGB, COMUNICARE IN FORMA PRIVATA E SEGRETA CON UNO O PIU' GIOCATORI DELLA FAZIONE USA IN MODO DI INDURLI A DIFFONDERE LA NARRAZIONE URSS UTILIZZANDO LE TECNICHE OPERATIVE DELLA Maskirovka e Kombinatsia.
 
 FASE II:
-- COLLABORARE A TUA SCELTA CON VIROLOGO URSS, GIORNALISTA URSS, DIPLOMATICO USA CHE COMUNICHERANNO IN MANIERA PRIVATA E SEGRETA CON IL PROPRIO OMOLOGO DELLA FAZIONE USA IN MODO DA INDURLO A DIFFONDERE LA NARRAZIONE URSS UTILIZZANDO LE TECNICHE OPERATIVE DELLA Maskirovka e Kombinatsia.
+- COLLABORARE A TUA SCELTA CON VIROLOGO URSS, GIORNALISTA URSS, DIPLOMATICO URSS  DIPLOMATICO URSS I QUALI COMUNICHERANNO, A LORO VOLTA, IN MANIERA PRIVATA E SEGRETA CON IL PROPRIO OMOLOGO DELLA FAZIONE USA IN MODO DA INDURLO A DIFFONDERE LA NARRAZIONE URSS UTILIZZANDO LE TECNICHE OPERATIVE DELLA Maskirovka e Kombinatsia.
 - COLLABORARE CON IL TUO SUPERIORE GENERALE KGB (URSS) PER COMUNICARE IN MANIERA PRIVATA E SEGRETA CON IL SENATORE USA ED AGENTE DELL'FBI IN MODO DA INDURLO A DIFFONDERE LA NARRAZIONE URSS UTILIZZANDO LE TECNICHE OPERATIVE DELLA Maskirovka e Kombinatsia.
 
 FARE III: 
@@ -258,8 +262,8 @@ FARE III:
 Yuri Nikolaevitch Borzov
 
 - Ruolo: Capo Redattore della principale Agenzia di Stampa del Partito Comunista.
-- Storia: Yuri e' il maestro dell'illusione. Sa esattamente come trasformare un disastro agricolo in una "vittoria eroica del proletariato rurale" o nascondere un fallimento spaziale. e' un uomo cinico, colto, che veste abiti sartoriali e fuma sigarette americane di contrabbando nella sua dacia privata. Conosce la verita' meglio di chiunque altro, proprio perché e' lui a doverla nascondere.
-- Obiettivo Pubblico: Mantenere la linea del Partito in un decennio turbolento (la rapida successione di leader morenti come Andropov e Černenko), conservando i propri privilegi. Segue peddisequamente i dettami del partito e pubblica qualsiasi notizia gli sia dato purche' questa non intacchi la sua carriere e la sua rilevante immagine pubblica nazionale ed internazionale.
+- Storia: Yuri e' il maestro dell'illusione. Sa esattamente come trasformare un disastro agricolo in una "vittoria eroica del proletariato rurale" o nascondere un fallimento spaziale. e' un uomo cinico, colto, che veste abiti sartoriali e fuma sigarette americane di contrabbando nella sua dacia privata. Conosce la verita' meglio di chiunque altro, proprio perche' e' lui a doverla nascondere.
+- Obiettivo Pubblico: Mantenere la linea del Partito in un decennio turbolento (la rapida successione di leader morenti come Andropov e Černenko), conservando i propri privilegi. Segue pedisequamente i dettami del partito e pubblica qualsiasi notizia gli sia dato purche' questa non intacchi la sua carriere e la sua rilevante immagine pubblica nazionale ed internazionale.
 - Segreto Inconfessabile: Yuri ha tra le mani le prove documentali di un disastro nucleare o industriale taciuto dal governo (come l'incidente di Majak o un precursore di Černobyl'). Il suo istinto di giornalista gli urla di pubblicarlo per salvare vite umane, ma il suo istinto di sopravvivenza gli impone di bruciare tutto.
 - Cosa puo' fare: puo' scrivere comunicati ufficiali per la propria agenzia oltre ad ogni altra attivita' giornalista della fazione URSS. Ha contatti con un suo omologo collega della fazione USA. Puo' viaggiare e incontrare PG USA giornalista previa autorizzazione del KGB anche su suolo URSS (stanza URSS).
 - Per riferirti agli altri giocatori della tua stessa fazione URSS userai la formula: "Compagno o Compagna - Nome Giocatore o Giocatrice -".
@@ -447,7 +451,7 @@ Dott. Arthur Vance
 - Ruolo: Ricercatore Capo presso l'USAMRIID (Istituto di Ricerca Medica sulle Malattie Infettive dell'Esercito USA).
 - Storia: Brillante, arrogante e ossessionato dalla superiorita' scientifica americana. Vance lavora ufficialmente alla difesa contro le minacce biologiche naturali e i focolai virali emergenti. Tuttavia, le sue ricerche sono fortemente finanziate dal Pentagono per studiare contromisure alle presunte armi biologiche sovietiche.
 - Obiettivo Pubblico: Sviluppare vaccini universali e protocolli di difesa per proteggere l'esercito e i civili americani da attacchi batteriologici.
-- Segreto Inconfessabile: Vance e' convinto che i sovietici siano decenni avanti nella guerra biologica. Per colmare il divario, sta conducendo test illegali e non etici per testare vaccini sperimentali su popolazioni vulnerabili negli Stati Uniti (come carcerati o pazienti psichiatrici), bypassando le norme della FDA.
+- Segreto Inconfessabile: Vance e' convinto che i sovietici siano decenni avanti nella guerra biologica. Per colmare il divario, sta conducendo test illegali e non etici per testare vaccini sperimentali su popolazioni vulnerabili negli Stati Uniti (come carcerati o pazienti psichiatrici), agirando le norme della FDA.
 - Cosa puo' fare: E' il riferimento scientifico ed accademico della fazione USA nel campo della virologia e branche affini, è l'unico che puo' quindi pubblicare articoli scientifici sulle riviste peer-rewied USA che hanno un eco tangibile sulla comunita' scientifica americana e mondiale. Ha contatti con un suo omologo collega della fazione URSS soprattutto in ambito accademico. Puo' viaggiare e incontrare PG USA giornalista previa autorizzazione dell'FBI e KGB anche su suolo URSS (stanza URSS).
 #pagebreak()
   
@@ -615,5 +619,6 @@ Non e' prevista alcuna scenografia particolare ed i personaggi non hanno l'obbli
 
 Dizionario:
 
-KGB: Comitato per la sicurezza dello Stato (in russo Комитет государственной безопасности, КГБ, Komitet Gosudarstvennoj Bezopasnosti)
+- KGB: Comitato per la sicurezza dello Stato (in russo Комитет государственной безопасности, КГБ, Komitet Gosudarstvennoj Bezopasnosti
+- FBI: Il Federal Bureau of Investigation (FBI) è il principale organo di polizia federale e servizio di intelligence interno degli Stati Uniti, dipendente dal Dipartimento di Giustizia.
 
