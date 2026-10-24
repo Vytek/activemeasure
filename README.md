@@ -1,4 +1,4 @@
-# ActiveMeasure — Manuali
+# Active Measure — Manuali
 
 ![Logo Active Measure](Logo/logo.png)
 
