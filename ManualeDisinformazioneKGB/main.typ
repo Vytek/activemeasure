@@ -73,7 +73,7 @@ Capire cosa sia e come venissero messe in pratica le "Misure attive" dal KGB e d
 
 U.R.S.S., anni '8O, siamo nel pieno della cosiddetta "Guerra Fredda". La tensione tra USA ed URSS ha raggiunto nuove vette e le attivita' di spionaggio e controspionaggio sono arrivate ai livelli massimi. Uomini, nazioni, intere popolazioni vivono nell'angosciosa paura di una possibile, ma catastrofica "guerra nucleare": la Terza Guerra Mondiale che potrebbe anche annientare l'intera razza umana. In questo quadro diplomatico internazionale teso ed ansiogeno i due blocchi si sfidano con la costruzione tecnologica di armi sempre piu' micidiali, ma anche attraverso "armi" meno convenzionali per sfidare il nemico ideologico che temono ed odiano. In particolare il servizio di spionaggio estero sovietico (KGB) progettava e realizzava numerose forme di “influenza e manipolazione” dell’opinione pubblica mondiale tese a screditare e dividere sul piano internazionale i paesi capitalisti ed in particolar modo l’eterno ed acerrimo nemico ideologico: gli Stati Uniti D’America.
 
-Nel gergo tecnico del KGB tale operazioni, sia su scala nazionale che internazionale, venivano definite “Misure Attive” (in russo: активные мероприятия, romanizzato: *aktivnye meropriyatiya*) ed ad esse, fin dagli anni ‘60, era dedicato un apposito direttorato (Servizio “A”) parte del Primo Direttorato Centrale. Il termine “Misure Attive” definisce molto bene lo scopo di tali operazioni e le distingue nettamente dal tipico ruolo “passivo” delle diverse agenzie di spionaggio spesso maggiormente focalizzate sulla raccolta ed analisi di informazioni riservate o segrete. Il gergo, spesso abbreviato come A.M., ci descrive in nuce anche la filosofia politica teorica alla base di tali provvedimenti.
+Nel gergo tecnico del KGB tale operazioni, sia su scala nazionale che internazionale, venivano definite “Misure Attive” (in russo: активные мероприятия, romanizzato: *aktivnye meropriyatiya*) ed ad esse, fin dagli anni ‘6O, era dedicato un apposito direttorato (Servizio “A”) parte del Primo Direttorato Centrale. Il termine “Misure Attive” definisce molto bene lo scopo di tali operazioni e le distingue nettamente dal tipico ruolo “passivo” delle diverse agenzie di spionaggio spesso maggiormente focalizzate sulla raccolta ed analisi di informazioni riservate o segrete. Il gergo, spesso abbreviato come A.M., ci descrive in nuce anche la filosofia politica teorica alla base di tali provvedimenti.
 
 = #typewriter-line("Una definizione dal Dizionario del KGB")
 
@@ -81,9 +81,7 @@ MISURE ATTIVE – azioni di controspionaggio che consentono di penetrare nei pia
 
 Le misure attive, a differenza delle misure difensive (ad esempio quelle volte a garantire il regime di segretezza e la tutela dei segreti di Stato e militari), hanno carattere offensivo e permettono di individuare e reprimere le attivita' ostili sin dalle fasi piu' precoci della loro insorgenza, costringere il nemico a scoprirsi, imporgli la propria volonta' e obbligarlo ad agire in condizioni sfavorevoli e nella direzione desiderata dagli organi di controspionaggio.
 
-Nella pratica dell’attività di controspionaggio degli organi di di sicurezza dello Stato, la M. A. comprende misure volte alla creazione di reti di agenti nel campo nemico e nel suo entourage, alla conduzione di operazioni di inganno nei confronti del nemico, alla disinformazione, alla compromissione e alla disgregazione delle forze nemiche, al trasferimento sul territorio dell’URSS di persone di interesse operativo, all’acquisizione di informazioni di intelligence e così via.
-
-Tradotto con DeepL.com (versione gratuita)
+Nella pratica dell’attività di controspionaggio degli organi di sicurezza dello Stato, la M. A. comprende misure volte alla creazione di reti di agenti nel campo nemico e nel suo entourage, alla conduzione di operazioni di inganno nei confronti del nemico, alla disinformazione, alla compromissione e alla disgregazione delle forze nemiche, al trasferimento sul territorio dell’URSS di persone di interesse operativo, all’acquisizione di informazioni di intelligence e cosi' via.
 
 Fonte: [https://kgb.arhivi.lv/dokumenti/vdk/pretizlukosanas-vardnica]
 
@@ -206,6 +204,19 @@ Ma l’intelligence sovietica non ha limitato il concetto di “misure attive”
 
 - Altre operazioni di influenza politica.
 
+Le misure attive combinavano quindi una serie di metodi e mezzi operativi per raggiungere i risultati che avevano una precisa denominazione nel KGB. Questi includevano quanto segue:
+- Maskirovka — inganno militare nella sua totalita', per includere occultamento, camuffamento e inganno a tutti i livelli. Questo era integrato in tutti i piani operativi.
+- Provokatsiya — l'uso di provocazioni.
+- Proniknoveniye — penetrazione.
+- Fabrikatsiya — fabbricazione e falsificazione di documenti.
+- Diversiya — diversione, sovversione e sabotaggio.
+- Agent vliyaniya o agent po vliyaniyu — agente d'influenza.
+- Konspiratsiya — lavoro clandestino.
+- Dezinformatsiya — disinformazione.
+- Mokryye dela — "affari bagnati" (wet affairs) o assassinii, sabotaggio e rapimenti.
+- Aktivnyye akty — azione diretta, un termine successivo per descrivere gli "affari bagnati".
+- Kombinatsiya — combinazione di metodi che riflette la preferenza sovietica per operazioni complesse che combinano mezzi e metodi nel tempo e nello spazio per raggiungere un obiettivo.   
+
 Fa eco con una proficua sintesi di quanto fin qui esposto il libro “The KGB and Soviet Disinformation”:
 
 *"Ogni sforzo viene fatto per presentare il messaggio in modo tale da dissuadere i leader di un Paese bersaglio dall'analisi critica di  segmenti ingannevoli. Lo scopo complessivo non e' solo quello di ingannare, ma anche di causare danni all'obiettivo. La vittima della disinformazione deve essere indotta a infliggersi un danno, direttamente o indirettamente, agendo contro i propri interessi sulla base di informazioni false o rimanendo passiva quando e' necessario agire."*
@@ -214,7 +225,7 @@ Fa eco con una proficua sintesi di quanto fin qui esposto il libro “The KGB an
 
 = La ricetta per creare la perfetta M.A.
 
-Lo scopo generale delle Misure Attive puo' essre quindi riassunto in quello che gli analisti moderni definiscono come le 5D:
+Lo scopo generale delle Misure Attive puo' essere quindi riassunto in quello che gli analisti moderni definiscono come le 5D:
 
 - (*Dismiss*) Respingi: respingi le critiche respingendo i tuoi critici. Questo potrebbe significare che i critici usano per te uno standard diverso rispetto agli altri attori o a se stessi; o sostenendo che la loro critica e' parziale.
 - (*Distort*) Distorcere: distorcere la narrazione. Prendi informazioni, o artefatti come immagini, e cambia l'inquadratura attorno ad essi.
@@ -244,6 +255,94 @@ Si veda:
 
 - (https://web.archive.org/web/20230223211213/https://inventory.adt.ac/wiki/The_5D%27s_(dismiss,_distort,_distract,_dismay,_divide))
 - (https://www.stopfake.org/it/all-origine-delle-fake-news-virus-politico-per-distruggere-l-occidente/)
+
+= L'architettura cognitiva generale. La RCT: Reflexive Control Theory, Teoria del Controllo Riflessivo
+
+Il Controllo Riflessivo (*refleksivnoe upravlenie*) costituisce una delle dottrine centrali e piu' sofisticate della guerra informativa e psicologica sviluppata prima dall'Unione Sovietica.
+
+Di seguito viene presentata una relazione dettagliata sulla sua definizione, i suoi fondamenti teorico-scientifici e il suo legame integrato con le Misure Attive e la Disinformazione.
+
+---
+
+== 1. Che cos'e' il Controllo Riflessivo: Definizione e Concetto Chiave
+
+In termini generali, il Controllo Riflessivo e' definito come la pratica di trasmettere a un avversario o a un partner informazioni appositamente strutturate al fine di indurlo a prendere "volontariamente" una decisione predeterminata e favorevole a chi conduce l'operazione.
+
+A differenza delle forme tradizionali di inganno militare o propaganda, il criterio fondante del successo nel controllo riflessivo risiede nel fatto che il bersaglio (l'oggetto) deve rimanere del tutto inconsapevole della manipolazione: deve credere di agire in piena autonomia e di compiere una scelta razionale nel proprio interesse, mentre in realta' sta eseguendo un piano orchestrato dall'aggressore (il soggetto).
+
+Dal punto di vista etimologico e semantico, il termine russo *upravlenie* racchiude un significato piu' ampio del semplice "controllo" occidentale, estendendosi ai concetti di gestione, direzione e amministrazione del processo decisionale altrui.
+
+---
+
+== 2. Su cosa si basa il Controllo Riflessivo: Fondamenti Teorici e Culturali
+
+La teoria del controllo riflessivo non e' un semplice insieme di stratagemmi tattici, ma una disciplina scientifica e sistemica che si basa su diversi pilastri teorici, psicologici e socio-culturali:
+
+=== A. Origini Scientifiche, Cibernetica e Teoria dei Sistemi
+- Matrice cibernetica e risposta alla Teoria dei Giochi: Sviluppata a partire dai primi anni '60 dal matematico e psicologo sovietico Vladimir Lefebvre, la teoria nacque come risposta sovietica alla teoria dei giochi occidentale. Mentre la teoria dei giochi classica presupponeva attori lineari e razionali in cerca di equilibrio, Lefebvre modello' i "giochi riflessivi" basati sui sistemi adattivi complessi (CAS) e non lineari, integrando la psicologia e l'emulazione dei processi cognitivi dell'avversario.
+- Modellizzazione matematica: Lefebvre tento' di formalizzare il processo decisionale attraverso equazioni algebriche (l'Algebra del Conflitto) per calcolare come la modifica di determinati parametri percettivi alteri le scelte dell'avversario.
+
+=== B. Il concetto di "Filtro" Cognitivo
+La teoria presuppone che nessun attore decida sulla base della realta' oggettiva pura, bensì attraverso un "filtro" cognitivo. Come teorizzato dagli analisti militari russi S. Leonenko e M. D. Ionov, questo filtro e' formato da:
+1. Concetti, valori etici e dottrine operative dell'avversario.
+2. Immagini mentali, pregiudizi, esperienze pregresse ed elementi psicologici individuali o collettanei dei decisori.
+
+Il controllo riflessivo studia meticolosamente questo filtro per individuarne i punti deboli e i pregiudizi cognitivi, inoculando dati che il filtro dell'avversario accettera' come veritieri e logici.
+
+=== C. Il Grado di Riflessione (*Rank of Reflection*)
+Un concetto chiave e' la capacita' di emulare il pensiero altrui a piu' livelli ("io penso che tu pensi che io pensi..."). Secondo la teoria, in un confronto tra due parti, prevale chi possiede il grado di riflessione piu' alto, ovvero chi sa modellare con maggiore accuratezza il processo di pensiero e le reazioni dell'avversario.
+
+=== D. Il Terreno Socio-Culturale Russo
+La teoria affonda le sue radici in concetti culturali e sociali profondamente radicati nella storia sovietica e russa:
+- Vranyo: Il concetto di falsita' o mezza verita' verosimile, socialmente tollerata, che contiene elementi di realta' sufficienti ad essere accettata.
+-  Maskirovka: La tradizionale dottrina militare dell'inganno, mimetizzazione e dissimulazione delle intenzioni.
+- Dvoemyslie (Doppio pensiero) e accettazione della manipolazione della verita' come strumento di controllo e coesione.
+
+=== E. Mappatura Tattica e Metodi Operativi
+Negli anni '90, teorici militari come S. A. Komov, M. D. Ionov e F. Chausov hanno sistematizzato le tecniche operative del controllo riflessivo. Komov individua 10 metodi principali:
+1. Distrazione: Creare una minaccia reale o immaginaria a un punto vitale per distogliere l'attenzione dal settore principale.
+2. Sovraccarico informativo: Inondare l'avversario di enormi moli di messaggi per paralizzare o rallentare la capacita' di analisi dei suoi comandi.
+3. Paralisi: Creare la percezione di una minaccia specifica agli interessi vitali per bloccare le decisioni.
+4. Sfinimento: Costringere il nemico a compiere operazioni inutili o estenuanti prima del combattimento reale.
+5. Inganno: Spingere il nemico a riallocare risorse o forze verso regioni minacciate in modo fittizio.
+6. Pacificazione/Rassicurazione: Indurre l'avversario a credere che le attivita' in corso siano di routine o esercitative per abbassarne la vigilanza.
+7. Deterrenza/Intimidazione: Creare un'immagine insuperabile della propria superiorita' per scoraggiare l'azione nemica.
+8. Provocazione: Forzare il nemico a compiere un'azione prematura o sbagliata a proprio vantaggio.
+9. Pressione: Diffondere informazioni che screditino il governo o le istituzioni avversarie agli occhi della popolazione.
+10. Divisione: Convincere l'avversario a compiere azioni in contrasto con gli interessi dei propri alleati o della propria coalizione.
+
+---
+
+== 3. Uso e Legame con le Misure Attive e la Disinformazione
+
+Per comprendere la guerra informativa russa, e' fondamentale non confondere questi tre concetti, bensì analizzarli all'interno di una ben precisa gerarchia strategica:
+
+#figure(
+  image("/images/imagen-pegada.png"),
+  caption: [Schema concettuale riassuntivo],
+) <fig:imagen-pegada>
+
+=== A. Misure Attive (*Aktivnye Meropriyatiya*)
+Le Misure Attive costituiscono l'insieme delle operazioni clandestine o semiclandestine condotte dall'intelligence (storicamente dal KGB) per influenzare il corso degli eventi politici mondiali, indebolire i paesi avversari e minare la fiducia nelle istituzioni democratiche. 
+
+Gli strumenti: Comprendono agenti di influenza, ricatti, falsificazioni di documenti, operazioni di disinformazione, attacchi informatici, finanziamento di movimenti estremisti e organizzazioni di facciata.
+
+=== B. Disinformazione (*Dezinformatsiya*)
+La Disinformazione e' un sottoinsieme specifico e operativo delle Misure Attive. Consiste nella costruzione e inoculazione deliberata di messaggi falsi o fortemente distorti nei canali d'informazione avversari per ingannare l'opinione pubblica e i decisori politici.
+
+=== C. Il Controllo Riflessivo come Dottrina Orchestratrice
+Mentre le Misure Attive forniscono gli *strumenti pratici e le reti di diffusione* e la Disinformazione fornisce i *contenuti e i messaggi manipolati*, il Controllo Riflessivo rappresenta l'architettura cognitiva e la logica d'attacco.
+
+1. Integrazione sistemica: Il controllo riflessivo applica la disinformazione non per la semplice menzogna in sé, ma per alterare la percezione e spingere il bersaglio verso una reazione calcolata.
+2. Creazione del "Simulacro" o Realta' Virtuale: Come evidenziato dai teorici V. Makhnin e A. Shandra, attraverso l'uso combinato di disinformazione e Misure Attive, la Russia costruisce una "realta' virtuale" o simulacro attorno al centro decisionale della vittima. Credendo che quel simulacro rappresenti la realta' oggettiva, la vittima prende decisioni che ritiene logiche, ma che risultano disastrose per se' e vantaggiose per Mosca.
+3. Targeting multidimensionale: Il controllo riflessivo si applica sia a livello tattico-militare (tramite inganni sul campo e sistemi di disturbo), sia a livello politico-statale (sfruttando le divisioni interne, la liberta' di stampa e le polarizzazioni sociali delle democrazie occidentali).
+
+---
+
+== 4. Sintesi Strategica
+
+In conclusione, il Controllo Riflessivo rappresenta la dimensione intellettuale della guerra d'informazione sovietica. Esso sfrutta la trasparenza e l'apertura delle societa' democratiche per volgere le loro stesse dinamiche interne e i loro valori contro di esse. Attraverso la diffusione sintonizzata di disinformazione a mezzo di misure attive (agenti d'influenza, narrazioni divisive), la strategia sovietica punta a produrre una paralisi decisionale o scelte autodistruttive negli avversari, senza necessita' di ricorrere al confronto militare diretto per ottenere la vittoria politica.
+
 
 = Alcuni esempi reali di “Misure Attive”
 

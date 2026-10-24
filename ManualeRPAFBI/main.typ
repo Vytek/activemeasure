@@ -72,12 +72,12 @@
 #align(center)[di Enrico Speranza per il LARP: Active Measure - Operation Infektion]
 #align(center)[================================]
 
-L'Active Measures Working Group (Gruppo di lavoro sulle misure attive) è stato un comitato interagenziale del governo degli Stati Uniti, istituito nel 1981 durante l'amministrazione Reagan, con l'obiettivo primario di contrastare la disinformazione e le "misure attive" (aktivnye meropriyatiya) sovietiche. [1, 2] 
-Di seguito sono riportati i dettagli principali sulla sua struttura, il funzionamento e l'impatto storico:
+L'Active Measures Working Group (Gruppo di lavoro sulle misure attive) e' stato un comitato interagenziale del governo degli Stati Uniti, istituito nel 1981 durante l'amministrazione Reagan, con l'obiettivo primario di contrastare la disinformazione e le "misure attive" (aktivnye meropriyatiya) sovietiche. [1, 2] 
+Di seguito sono riportati i dettagli principali sulla sua struttura, il funzionamento e l'impatto storico
+
 == 🇺🇸 Origine e Struttura Interagenziale
 Prima degli anni '80, la CIA tracciava la disinformazione sovietica, ma la Casa Bianca evitava un confronto pubblico diretto. L'amministrazione Reagan cambiò strategia, istituendo questo gruppo sotto la guida iniziale del Dipartimento di Stato americano (in particolare l'ufficio INR) per coordinare gli sforzi tra i vari organi di sicurezza e di intelligence. [3, 4, 5] 
 Il gruppo includeva rappresentanti di spicco di: [1, 6] 
-
 
 - Central Intelligence Agency (CIA)
 - Federal Bureau of Investigation (FBI)
@@ -86,19 +86,19 @@ Il gruppo includeva rappresentanti di spicco di: [1, 6]
 - United States Information Agency (USIA)
 - Arms Control and Disarmament Agency
 
+Il primo presidente del gruppo e' stato il vice assistente del segretario di Stato Dennis Kux (fino al 1984), seguito successivamente da altre figure tra cui Kathleen C. Bailey, che ha presieduto il comitato dal 1985 al 1987. [1] 
 
-Il primo presidente del gruppo è stato il vice assistente del segretario di Stato Dennis Kux (fino al 1984), seguito successivamente da altre figure tra cui Kathleen C. Bailey, che ha presieduto il comitato dal 1985 al 1987. [1] 
 == 🎯 Obiettivi e Metodologia
 Il focus del gruppo non era la semplice raccolta di informazioni, bensì l'esposizione pubblica e sistematica della propaganda ingannevole e delle operazioni coperte del KGB. Il comitato operava attraverso passaggi ben definiti: [3, 7] 
 
    1. Raccolta ed Analisi: Raccoglieva esempi di disinformazione e falsificazioni anti-americane in tutto il mondo, analizzandoli grazie agli esperti di intelligence, ai database informatici della CIA sui falsi storici e alle testimonianze dei disertori del KGB. [3] 
    2. Sensibilizzazione e Trasparenza: Invece di rispondere con altra propaganda segreta, il gruppo pubblicava regolarmente report dettagliati e dossier aperti (inviati al Congresso, ai media e ai governi alleati) per istruire giornalisti e funzionari pubblici su come riconoscere le manovre di influenza sovietiche. [3, 4] 
 
-Il gruppo si occupava di smascherare sia le false notizie (come la fake news creata dal KGB secondo cui il virus dell'HIV fosse stato sintetizzato in un laboratorio militare statunitense a Fort Detrick) sia le attività delle cosiddette organizzazioni di facciata (front groups) sovietiche. [1, 3] 
-== 📈 Impatto e Valutazione Storica
-Nel panorama della burocrazia statunitense, l'Active Measures Working Group è considerato dagli storici e dagli analisti di geopolitica (come gli studi condotti dalla [National Defense University](https://inss.ndu.edu/Media/News/Article/693590/deception-disinformation-and-strategic-communications-how-one-interagency-group/)) come uno dei rari esempi di comitato interagenziale part-time di eccezionale successo. [1, 8] 
-Il suo operato riuscì a:
+Il gruppo si occupava di smascherare sia le false notizie (come la fake news creata dal KGB secondo cui il virus dell'HIV fosse stato sintetizzato in un laboratorio militare statunitense a Fort Detrick) sia le attivite' delle cosiddette organizzazioni di facciata (front groups) sovietiche. [1, 3]
 
+== 📈 Impatto e Valutazione Storica
+Nel panorama della burocrazia statunitense, l'Active Measures Working Group e' considerato dagli storici e dagli analisti di geopolitica (come gli studi condotti dalla [National Defense University](https://inss.ndu.edu/Media/News/Article/693590/deception-disinformation-and-strategic-communications-how-one-interagency-group/)) come uno dei rari esempi di comitato interagenziale part-time di eccezionale successo. [1, 8] 
+Il suo operato riuscì a:
 
 - Stabilire una linea politica coesa e reattiva del governo USA contro la guerra d'informazione. [2] 
 - Innalzare il costo politico delle operazioni coperte di Mosca, rendendo il pubblico domestico e internazionale immune a determinati tentativi di manipolazione. [2] 
@@ -127,7 +127,7 @@ Per guidare questa azione "end-to-end" (dall'identificazione alla risposta pubbl
 
 === 2. Dinamiche delle Falsificazioni Documentali (*Forgeries*)
 
-La falsificazione (*forgery*) è definita dalle fonti come l'uso di documenti e comunicati apparentemente autentici ma del tutto falsi o manipolati. Costituiva uno dei vettori preferiti dal Servizio A della Prima Direzione Centrale del KGB e dei servizi satelliti del Blocco Orientale (come il Dipartimento D cecoslovacco o la STASI).
+La falsificazione (*forgery*) e' definita dalle fonti come l'uso di documenti e comunicati apparentemente autentici ma del tutto falsi o manipolati. Costituiva uno dei vettori preferiti dal Servizio A della Prima Direzione Centrale del KGB e dei servizi satelliti del Blocco Orientale (come il Dipartimento D cecoslovacco o la STASI).
 
 ==== Infrastruttura Operativa e Fabbricazione
 *   Sezione Documentazione (*Otdeleniye po dokumentatsiya*): All'interno del Servizio A del KGB operava un sottogruppo specializzato che raccoglieva e catalogava campioni di documenti ufficiali di governi stranieri, tipi di carta, carte intestate, loghi, inchiostri e campioni di battitura per rendere verosimile ogni falso.
@@ -135,7 +135,7 @@ La falsificazione (*forgery*) è definita dalle fonti come l'uso di documenti e 
 *   Supporto di Falsificatori d'Élite: Il KGB impiegava artisti ed esperti di falsificazione (come Pavel Gromoshkin, specializzato nell'imitazione di firme e loghi) e si avvalse di spie come Guy Burgess per revisionare lo stile burocratico e linguistico inglese dei documenti.
 *   Tipologie di Falso:
     1.  *Documenti interamente fabbricati*: creati ex-novo su carta intestata ricostruita.
-    2.  *Documenti autentici alterati*: inserimento di singole frasi, paragrafi o nomi manipolati all'interno di veri documenti riservati occidentali sottratti tramite spionaggio, al fine di amplificare tensioni o rivalità interne.
+    2.  *Documenti autentici alterati*: inserimento di singole frasi, paragrafi o nomi manipolati all'interno di veri documenti riservati occidentali sottratti tramite spionaggio, al fine di amplificare tensioni o rivalita' interne.
 
 ==== Categorie e Casi Studio Emblematici
 1.  Provocare Disarmonia nella NATO:
@@ -148,7 +148,7 @@ La falsificazione (*forgery*) è definita dalle fonti come l'uso di documenti e 
 
 = Il contrasto al reclutamento degli Agenti di Influenza
 
-Per persuadere o convincere un futuro Agente di Influenza sia i Servizi Segreti occidentali che quelli del Patto di Varsavia si avvalevano della schematizzazione offerta tramite la “metodica” definita dalla CIA con l’acronimo M.I.C.E. Metodica tra altre cose fornita da uno stesso ex-agente del KGB. Questa griglia intepretativa è utilizzata dagli stessi agenti dell'FBI e CIA per prevenire ed indagare sui lati oscuri o sul passato degli indiziati nazionali ed esteri nella consapevolezza che questi punti deboli possano essere sfruttati dagli agenti sovietici. Quelle stesse debolezze che nel personale sovietico in patria ed all'estero possono essere delle preziose scorciatoie per condurre i cittadini sovietici a collaborare con gli USA e l'occidente in generale.
+Per persuadere o convincere un futuro Agente di Influenza sia i Servizi Segreti occidentali che quelli del Patto di Varsavia si avvalevano della schematizzazione offerta tramite la “metodica” definita dalla CIA con l’acronimo M.I.C.E. Metodica tra altre cose fornita da uno stesso ex-agente del KGB. Questa griglia intepretativa e' utilizzata dagli stessi agenti dell'FBI e CIA per prevenire ed indagare sui lati oscuri o sul passato degli indiziati nazionali ed esteri nella consapevolezza che questi punti deboli possano essere sfruttati dagli agenti sovietici. Quelle stesse debolezze che nel personale sovietico in patria ed all'estero possono essere delle preziose scorciatoie per condurre i cittadini sovietici a collaborare con gli USA e l'occidente in generale.
 
 = La metodologia MICE
 
@@ -164,7 +164,7 @@ I servizi di spionaggio e controspionaggio occidentali erano e sono consapevoli 
 
 = Da MICE A RICE
 
-Andrew Bustamante, ex ufficiale dell'intelligence sotto copertura della Central Intelligence Agency (CIA), veterano dell'aeronautica militare statunitense e fondatore di una piattaforma di formazione, afferma che l'acronimo che la CIA insegna a tutte le sue spie e' in realtà: RICE. Rappresenta le motivazioni fondamentali che guidano ogni comportamento umano e fornisce un quadro elegante per comprendere perche' le persone fanno cio' che fanno.   
+Andrew Bustamante, ex ufficiale dell'intelligence sotto copertura della Central Intelligence Agency (CIA), veterano dell'aeronautica militare statunitense e fondatore di una piattaforma di formazione, afferma che l'acronimo che la CIA insegna a tutti i suoi agenti e' in realta': RICE. Rappresenta le motivazioni fondamentali che guidano ogni comportamento umano e fornisce un quadro elegante per comprendere perche' le persone fanno cio' che fanno.   
 RICE sta per ricompensa, ideologia, coercizione ed ego. Questi aspetti del comportamento umano sono così potenti che le spie li usano per indurre i patrioti a [spiare contro il loro paese](https://www.cbsnews.com/news/china-us-espionage-cia-spying/) e commettere tradimento, spesso a rischio della propria vita.   
 Analizziamo nel dettaglio le quattro motivazioni principali di RICE e come questo framework puo' aiutarti ad attrarre piu' clienti.
 
@@ -197,6 +197,9 @@ Bibliografia e links
 - [9] [https://www.marshallcenter.org](https://www.marshallcenter.org/en/publications/security-insights/active-measures-russias-covert-geopolitical-operations-0)
 
 Materiale di studio dell'Active Measure Working Group
+
+- (A Report on Active Measures and Propaganda, 1986 - 87, August 1987) https://sspconline.org/sites/default/files/2026-01/soviet-influence-activities-1987_0.pdf
+- (Deception, Disinformation, and Strategic Communications: How One Interagency Group Made a Major Difference by Fletcher Schoen and Christopher J. Lamb) https://ndupress.ndu.edu/Portals/68/Documents/stratperspective/inss/Strategic-Perspectives-11.pdf
 
 
 

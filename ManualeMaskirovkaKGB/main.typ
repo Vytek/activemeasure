@@ -7,7 +7,7 @@
 
 #set text(
   font: "Mom´sTypewriter",
-  size: 12pt,
+  size: 10pt,
   fill: rgb("#2b2b2b"),
   lang: "it",
   hyphenate: true,
@@ -63,12 +63,13 @@
 #align(center)[================================]
 
 #quote(attribution: [Oleg Kalugin])[“The heart and soul of Soviet intelligence was subversion. Not intelligence collection, but subversion: active measures to weaken the West, to drive wedges in the Western community alliances of all sorts, particularly NATO, to sow discord among allies, to weaken the United States in the eyes of the people of Europe, Asia, Africa, Latin America, and thus to prepare ground in case the war really occurs.”
-(In italiano: "Il cuore e l'anima dell'intelligence sovietica era la sovversione. Non la raccolta di informazioni, ma la sovversione: misure attive per indebolire l'Occidente, insinuare cunei nelle alleanze della comunità occidentale di ogni tipo, in particolare la NATO, seminare discordia tra gli alleati, indebolire gli Stati Uniti agli occhi dei popoli d'Europa, Asia, Africa, America Latina, e preparare cosi' il terreno nel caso in cui la guerra dovesse realmente scoppiare").] 
+  
+(In italiano: "Il cuore e l'anima dell'intelligence sovietica era la sovversione. Non la raccolta di informazioni, ma la sovversione: misure attive per indebolire l'Occidente, insinuare cunei nelle alleanze della comunita' occidentale di ogni tipo, in particolare la NATO, seminare discordia tra gli alleati, indebolire gli Stati Uniti agli occhi dei popoli d'Europa, Asia, Africa, America Latina, e preparare cosi' il terreno nel caso in cui la guerra dovesse realmente scoppiare").] 
 
 (https://web.archive.org/web/20070627183623/http://www3.cnn.com/SPECIALS/cold.war/episodes/21/interviews/kalugin/)
 
 = #typewriter-line("Introduzione: Modalita' di attuazione delle “Misure Attive”")
-Il termine “misure attive” venne utilizzato in URSS fin dagli anni ’50 per descrivere tecniche palesi e segrete per influenzare eventi e comportamenti in paesi stranieri. La disinformazione - ovvero la diffusione intenzionale di informazioni false - e' solo uno dei tanti elementi che hanno costituito le operazioni di misure attive. Altre possibilita' includono:
+Il termine “misure attive” venne utilizzato in URSS fin dagli anni ’5O per descrivere tecniche palesi e segrete per influenzare eventi e comportamenti in paesi stranieri. La disinformazione - ovvero la diffusione intenzionale di informazioni false - e' solo uno dei tanti elementi che hanno costituito le operazioni di misure attive. Altre possibilita' includono:
 
 - Organizzazioni di facciata: Si trattava di gruppi nominalmente indipendenti che sostenevano le politiche sovietiche o quelle favorevoli all'URSS, come il disarmo nucleare unilaterale. Ne sono un esempio il Consiglio Mondiale della Pace, la Federazione Mondiale dei Sindacati Liberi e l'Organizzazione Internazionale dei Giornalisti.
 
@@ -91,14 +92,113 @@ Ma i sovietici non limitavano il concetto di misure attive alla sola intelligenc
 - Operazioni militari.  
 - Altre operazioni di influenza politica.
 
+Le misure attive combinavano quindi una serie di metodi e mezzi operativi per raggiungere i risultati che avevano una precisa denominazione nel KGB. Questi includevano quanto segue:
+- Maskirovka — inganno militare nella sua totalita', per includere occultamento, camuffamento e inganno a tutti i livelli. Questo era integrato in tutti i piani operativi.
+- Provokatsiya — l'uso di provocazioni.
+- Proniknoveniye — penetrazione.
+- Fabrikatsiya — fabbricazione e falsificazione di documenti.
+- Diversiya — diversione, sovversione e sabotaggio.
+- Agent vliyaniya o agent po vliyaniyu — agente d'influenza.
+- Konspiratsiya — lavoro clandestino.
+- Dezinformatsiya — disinformazione.
+- Mokryye dela — "affari bagnati" (wet affairs) o assassinii, sabotaggio e rapimenti.
+- Aktivnyye akty — azione diretta, un termine successivo per descrivere gli "affari bagnati".
+- Kombinatsiya — combinazione di metodi che riflette la preferenza sovietica per operazioni complesse che combinano mezzi e metodi nel tempo e nello spazio per raggiungere un obiettivo.   
+
 #figure(
   image("/photos/KGBPlayBook.png"),
   caption: [KGB Play Book],
 ) <fig:kgbplaybook>
 
+= L'architettura cognitiva generale. La RCT: Reflexive Control Theory, Teoria del Controllo Riflessivo
+Il Controllo Riflessivo (*refleksivnoe upravlenie*) costituisce una delle dottrine centrali e piu' sofisticate della guerra informativa e psicologica sviluppata prima dall'Unione Sovietica.
+
+Di seguito viene presentata una relazione dettagliata sulla sua definizione, i suoi fondamenti teorico-scientifici e il suo legame integrato con le Misure Attive e la Disinformazione.
+
+---
+
+== 1. Che cos'e' il Controllo Riflessivo: Definizione e Concetto Chiave
+
+In termini generali, il Controllo Riflessivo e' definito come la pratica di trasmettere a un avversario o a un partner informazioni appositamente strutturate al fine di indurlo a prendere "volontariamente" una decisione predeterminata e favorevole a chi conduce l'operazione.
+
+A differenza delle forme tradizionali di inganno militare o propaganda, il criterio fondante del successo nel controllo riflessivo risiede nel fatto che il bersaglio (l'oggetto) deve rimanere del tutto inconsapevole della manipolazione: deve credere di agire in piena autonomia e di compiere una scelta razionale nel proprio interesse, mentre in realta' sta eseguendo un piano orchestrato dall'aggressore (il soggetto).
+
+Dal punto di vista etimologico e semantico, il termine russo *upravlenie* racchiude un significato piu' ampio del semplice "controllo" occidentale, estendendosi ai concetti di gestione, direzione e amministrazione del processo decisionale altrui.
+
+---
+
+== 2. Su cosa si basa il Controllo Riflessivo: Fondamenti Teorici e Culturali
+
+La teoria del controllo riflessivo non e' un semplice insieme di stratagemmi tattici, ma una disciplina scientifica e sistemica che si basa su diversi pilastri teorici, psicologici e socio-culturali:
+
+=== A. Origini Scientifiche, Cibernetica e Teoria dei Sistemi
+- Matrice cibernetica e risposta alla Teoria dei Giochi: Sviluppata a partire dai primi anni '60 dal matematico e psicologo sovietico Vladimir Lefebvre, la teoria nacque come risposta sovietica alla teoria dei giochi occidentale. Mentre la teoria dei giochi classica presupponeva attori lineari e razionali in cerca di equilibrio, Lefebvre modello' i "giochi riflessivi" basati sui sistemi adattivi complessi (CAS) e non lineari, integrando la psicologia e l'emulazione dei processi cognitivi dell'avversario.
+- Modellizzazione matematica: Lefebvre tento' di formalizzare il processo decisionale attraverso equazioni algebriche (l'Algebra del Conflitto) per calcolare come la modifica di determinati parametri percettivi alteri le scelte dell'avversario.
+
+=== B. Il concetto di "Filtro" Cognitivo
+La teoria presuppone che nessun attore decida sulla base della realta' oggettiva pura, bensì attraverso un "filtro" cognitivo. Come teorizzato dagli analisti militari russi S. Leonenko e M. D. Ionov, questo filtro e' formato da:
+1. Concetti, valori etici e dottrine operative dell'avversario.
+2. Immagini mentali, pregiudizi, esperienze pregresse ed elementi psicologici individuali o collettanei dei decisori.
+
+Il controllo riflessivo studia meticolosamente questo filtro per individuarne i punti deboli e i pregiudizi cognitivi, inoculando dati che il filtro dell'avversario accettera' come veritieri e logici.
+
+=== C. Il Grado di Riflessione (*Rank of Reflection*)
+Un concetto chiave e' la capacita' di emulare il pensiero altrui a piu' livelli ("io penso che tu pensi che io pensi..."). Secondo la teoria, in un confronto tra due parti, prevale chi possiede il grado di riflessione piu' alto, ovvero chi sa modellare con maggiore accuratezza il processo di pensiero e le reazioni dell'avversario.
+
+=== D. Il Terreno Socio-Culturale Russo
+La teoria affonda le sue radici in concetti culturali e sociali profondamente radicati nella storia sovietica e russa:
+- Vranyo: Il concetto di falsita' o mezza verita' verosimile, socialmente tollerata, che contiene elementi di realta' sufficienti ad essere accettata.
+-  Maskirovka: La tradizionale dottrina militare dell'inganno, mimetizzazione e dissimulazione delle intenzioni.
+- Dvoemyslie (Doppio pensiero) e accettazione della manipolazione della verita' come strumento di controllo e coesione.
+
+=== E. Mappatura Tattica e Metodi Operativi
+Negli anni '90, teorici militari come S. A. Komov, M. D. Ionov e F. Chausov hanno sistematizzato le tecniche operative del controllo riflessivo. Komov individua 10 metodi principali:
+1. Distrazione: Creare una minaccia reale o immaginaria a un punto vitale per distogliere l'attenzione dal settore principale.
+2. Sovraccarico informativo: Inondare l'avversario di enormi moli di messaggi per paralizzare o rallentare la capacita' di analisi dei suoi comandi.
+3. Paralisi: Creare la percezione di una minaccia specifica agli interessi vitali per bloccare le decisioni.
+4. Sfinimento: Costringere il nemico a compiere operazioni inutili o estenuanti prima del combattimento reale.
+5. Inganno: Spingere il nemico a riallocare risorse o forze verso regioni minacciate in modo fittizio.
+6. Pacificazione/Rassicurazione: Indurre l'avversario a credere che le attivita' in corso siano di routine o esercitative per abbassarne la vigilanza.
+7. Deterrenza/Intimidazione: Creare un'immagine insuperabile della propria superiorita' per scoraggiare l'azione nemica.
+8. Provocazione: Forzare il nemico a compiere un'azione prematura o sbagliata a proprio vantaggio.
+9. Pressione: Diffondere informazioni che screditino il governo o le istituzioni avversarie agli occhi della popolazione.
+10. Divisione: Convincere l'avversario a compiere azioni in contrasto con gli interessi dei propri alleati o della propria coalizione.
+
+---
+
+== 3. Uso e Legame con le Misure Attive e la Disinformazione
+
+Per comprendere la guerra informativa russa, e' fondamentale non confondere questi tre concetti, bensì analizzarli all'interno di una ben precisa gerarchia strategica:
+
+#figure(
+  image("/images/imagen-pegada.png"),
+  caption: [Schema concettuale riassuntivo],
+) <fig:imagen-pegada>
+
+=== A. Misure Attive (*Aktivnye Meropriyatiya*)
+Le Misure Attive costituiscono l'insieme delle operazioni clandestine o semiclandestine condotte dall'intelligence (storicamente dal KGB) per influenzare il corso degli eventi politici mondiali, indebolire i paesi avversari e minare la fiducia nelle istituzioni democratiche. 
+
+Gli strumenti: Comprendono agenti di influenza, ricatti, falsificazioni di documenti, operazioni di disinformazione, attacchi informatici, finanziamento di movimenti estremisti e organizzazioni di facciata.
+
+=== B. Disinformazione (*Dezinformatsiya*)
+La Disinformazione e' un sottoinsieme specifico e operativo delle Misure Attive. Consiste nella costruzione e inoculazione deliberata di messaggi falsi o fortemente distorti nei canali d'informazione avversari per ingannare l'opinione pubblica e i decisori politici.
+
+=== C. Il Controllo Riflessivo come Dottrina Orchestratrice
+Mentre le Misure Attive forniscono gli *strumenti pratici e le reti di diffusione* e la Disinformazione fornisce i *contenuti e i messaggi manipolati*, il Controllo Riflessivo rappresenta l'architettura cognitiva e la logica d'attacco.
+
+1. Integrazione sistemica: Il controllo riflessivo applica la disinformazione non per la semplice menzogna in sé, ma per alterare la percezione e spingere il bersaglio verso una reazione calcolata.
+2. Creazione del "Simulacro" o Realta' Virtuale: Come evidenziato dai teorici V. Makhnin e A. Shandra, attraverso l'uso combinato di disinformazione e Misure Attive, la Russia costruisce una "realta' virtuale" o simulacro attorno al centro decisionale della vittima. Credendo che quel simulacro rappresenti la realta' oggettiva, la vittima prende decisioni che ritiene logiche, ma che risultano disastrose per se' e vantaggiose per Mosca.
+3. Targeting multidimensionale: Il controllo riflessivo si applica sia a livello tattico-militare (tramite inganni sul campo e sistemi di disturbo), sia a livello politico-statale (sfruttando le divisioni interne, la liberta' di stampa e le polarizzazioni sociali delle democrazie occidentali).
+
+---
+
+== 4. Sintesi Strategica
+
+In conclusione, il Controllo Riflessivo rappresenta la dimensione intellettuale della guerra d'informazione sovietica. Esso sfrutta la trasparenza e l'apertura delle societa' democratiche per volgere le loro stesse dinamiche interne e i loro valori contro di esse. Attraverso la diffusione sintonizzata di disinformazione a mezzo di misure attive (agenti d'influenza, narrazioni divisive), la strategia sovietica punta a produrre una paralisi decisionale o scelte autodistruttive negli avversari, senza necessita' di ricorrere al confronto militare diretto per ottenere la vittoria politica.
+
 = L’agente di influenza 
 
-Una spiegazione molta chiara di cosa sia un'agene d'influenza viene fornita dal libro “Dezinformatsia: Active Measures in Soviet Strategy” per capire chi possa soprattitto essere un agente d’influenza:
+Una spiegazione molta chiara di cosa sia un'agene d'influenza viene fornita dal libro “Dezinformatsia: Active Measures in Soviet Strategy” per capire chi possa soprattutto potrebbe essere un agente d’influenza:
 
 *Dei vari mezzi impiegati da Mosca per il condizionamento di operazioni segrete a sostegno degli obiettivi di politica estera, l'agente di influenza puo' essere il piu' complesso e difficile da documentare. In effetti, anche gli abili agenti del controspionaggio lo trovano molto difficile seguire e svelare le operazioni orchestrate degli agenti di influenza. Come notato in precedenza, esistono diversi tipi di agenti di influenza, compresi quelli inconsapevoli ma manipolati individualmente, il “contatto di fiducia” e l’agente sotto copertura controllato. L'agente di influenza puo' essere un giornalista, un funzionario governativo, un leader sindacale, un accademico, un opinion leader, un artista, o coinvolto in una delle numerose altre professioni. Il principale obiettivo di un’operazione di influenza e' l’utilizzo della posizione dell’agente – che si tratti di governo, politica, lavoro, giornalismo o altro altro campo - nel sostenere e promuovere le condizioni politiche desiderate dalla potenza straniera sponsor. Mosca utilizza gli agenti di influenza come uno degli elementi di cura, sforzo completamente orchestrato. Gli addetti ai lavori chiamano questa orchestrazione “kombinatsia”. Si riferisce all’abilita' di mettere in relazione, collegare e combinare vari agenti di influenza (in tempi diversi e in luoghi diversi) con particolari impegni operativi, in modo tale da migliorare l’efficacia. Queste azioni comprendono un'altra componente dell'approccio congiunto manifesto-nascosto impiegato dal Cremlino. Il KGB generalmente e' responsabile della conduzione di queste attivita'. La prima fase prevede lo sviluppo di forti coperture tramite rapporti personali con personaggi importanti di societa' straniere. Una volta stabilita tale relazione, il passo successivo e' garantire la collaborazione attiva del singolo sulle questioni di reciproco interesse. In cambio, il KGB fornira' una remunerazione su misura per soddisfare le esigenze specifiche o le vulnerabilita' della persona coinvolta. In alcuni casi, la forma di risarcimento puo' coinvolgere semplicemente il denaro. Tuttavia, per l'individuo che ha raggiunto la notorieta', e' piu' probabile che le ricompense per aver prestato servizio come agente di influenza comportino assistenza nel raggiungimento di obiettivi politici o personali.*
 
@@ -118,7 +218,7 @@ I servizi di spionaggio e controspionaggio occidentali erano e sono consapevoli 
 
 = Da MICE A RICE
 
-Andrew Bustamante, ex ufficiale dell'intelligence sotto copertura della Central Intelligence Agency (CIA), veterano dell'aeronautica militare statunitense e fondatore di una piattaforma di formazione, afferma che l'acronimo che la CIA insegna a tutte le sue spie e' in realtà: RICE. Rappresenta le motivazioni fondamentali che guidano ogni comportamento umano e fornisce un quadro elegante per comprendere perche' le persone fanno cio' che fanno.   
+Andrew Bustamante, ex ufficiale dell'intelligence sotto copertura della Central Intelligence Agency (CIA), veterano dell'aeronautica militare statunitense e fondatore di una piattaforma di formazione, afferma che l'acronimo che la CIA insegna a tutte le sue spie e' in realta': RICE. Rappresenta le motivazioni fondamentali che guidano ogni comportamento umano e fornisce un quadro elegante per comprendere perche' le persone fanno cio' che fanno.   
 RICE sta per ricompensa, ideologia, coercizione ed ego. Questi aspetti del comportamento umano sono così potenti che le spie li usano per indurre i patrioti a [spiare contro il loro paese](https://www.cbsnews.com/news/china-us-espionage-cia-spying/) e commettere tradimento, spesso a rischio della propria vita.   
 Analizziamo nel dettaglio le quattro motivazioni principali di RICE e come questo framework puo' aiutarti ad attrarre piu' clienti.
 

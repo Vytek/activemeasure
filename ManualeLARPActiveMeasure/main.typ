@@ -97,7 +97,7 @@ Al termine del LARP i partecipanti saranno in grado di:
 
 == Che cosa è un EDU-LARP?
 
-Un *Edu-LARP* (*Educational Live Action Role Playing*) è una metodologia didattica ed esperienziale che impiega il gioco di ruolo dal vivo come strumento pedagogico. Durante un Edu-LARP, i partecipanti vestono fisicamente i panni di personaggi specifici all'interno di uno scenario narrativo appositamente progettato, interagendo tra loro in tempo reale per affrontare dilemmi, risolvere problemi o rivivere eventi storici, letterari e scientifici. Trasformando l'apprendimento da un processo passivo a un'esperienza immersiva e collaborativa, questo approccio stimola l'empatia, il pensiero critico e l'assimilazione profonda dei concetti, favorendo al contempo lo sviluppo di competenze trasversali (*soft skills*) fondamentali come il *problem solving*, la negoziazione e il lavoro di squadra.
+Un *Edu-LARP* (*Educational Live Action Role Playing*) e' una metodologia didattica ed esperienziale che impiega il gioco di ruolo dal vivo come strumento pedagogico. Durante un Edu-LARP, i partecipanti vestono fisicamente i panni di personaggi specifici all'interno di uno scenario narrativo appositamente progettato, interagendo tra loro in tempo reale per affrontare dilemmi, risolvere problemi o rivivere eventi storici, letterari e scientifici. Trasformando l'apprendimento da un processo passivo a un'esperienza immersiva e collaborativa, questo approccio stimola l'empatia, il pensiero critico e l'assimilazione profonda dei concetti, favorendo al contempo lo sviluppo di competenze trasversali (*soft skills*) fondamentali come il *problem solving*, la negoziazione e il lavoro di squadra.
 
 ------
 
@@ -124,7 +124,7 @@ Svolta Terapeutica e Lotta Globale
 
 - I988 (I dicembre): Viene celebrata per la prima volta dall'Organizzazione Mondiale della Sanita' la Giornata Mondiale contro l'AIDS.
 
-(Molto interessante a questo proposito il film: The Normal Heart, (20I4) HBO Mark Ruffalo Jim Parsons tratto dall'opera teatrale The Normal Heart di Larry Kramer che cerca di ricostruire l'atmosfera di urgenza, panico, disorientamente che spesso ha dato sfogo ad accuse di complottismo e disinformazione usate abbondantemente in maniera consapevol od incosapevole dall'AM sovietica https://en.wikipedia.org/wiki/The_Normal_Heart).
+(Molto interessante a questo proposito il film: The Normal Heart, (20I4) HBO Mark Ruffalo, Jim Parsons tratto dall'opera teatrale "The Normal Heart" di Larry Kramer che cerca di ricostruire l'atmosfera di urgenza, panico, disorientamente che spesso ha dato sfogo ad accuse di complottismo e disinformazione usate abbondantemente in maniera probabilmente consapevole dall'A.M. sovietica https://en.wikipedia.org/wiki/The_Normal_Heart).
 
 Anno I980
 
@@ -199,7 +199,7 @@ Generale Viktor Anatolyevich Volkov
 
 Compiti:
 
-1) Fase I, 2, 3: Il compito principale in tutte le fasi del LARP e' quello di guidare la narrazione strategica riguardo l'OPERATION INFEKTION con consigli, comandi (se necessario) rivolgendoti soprattutto al tuo ufficiale in comando Colonnello del KGB tuo sottoposto. Come riferimento sul tuo comportamento e soprattutto sul modo di pensare ed agire del KGB si veda il manuale "MANUALE DI DISINFORMAZIONE DEL KGB ovvero Ingegneria della Disinformazione" ed il manuale "MANUALE OPERATIVO DEL KGB ovvero Come usare la Maskirovka e Kombinasia".
+1) Fase I, II, III: Il compito principale in tutte le fasi del LARP e' quello di guidare la narrazione strategica riguardo l'OPERATION INFEKTION con consigli, comandi (se necessario) rivolgendoti soprattutto al tuo ufficiale in comando Colonnello del KGB tuo sottoposto. Come riferimento sul tuo comportamento e soprattutto sul modo di pensare ed agire del KGB si veda il manuale "MANUALE DI DISINFORMAZIONE DEL KGB ovvero Ingegneria della Disinformazione" ed il manuale "MANUALE OPERATIVO DEL KGB ovvero Come usare la Maskirovka e Kombinasia".
 Non puoi comunicare in alcun modo con alcun personaggio giocante della fazione (USA) opposta. Nella fase 2 presiederai i vari eventi nascondendo il tuo reale incarico partecipando passivamente agli eventi.
 
 *NOTA: Questo ruolo e' solo e soltanto maschile, rispecchia la misoginia dell'URSS in cui i ruoli chiave erano prevalentemente maschili pur essendoci molte figure anche femminili nei ruoli intermedi e molto propagandati all'estero.*
@@ -213,7 +213,7 @@ Colonnello Sergei Ivanovich Sokolov
 
 - Ruolo: Ufficiale pluridecorato, da poco rientrato dal fronte in Afghanistan.
 - Storia: Sergei era un soldato fedele e un eroe dell'Unione Sovietica, ma gli anni passati nelle valli afghane lo hanno spezzato. Ha visto migliaia di giovani coscritti morire per tattiche miopi e per la mancanza di equipaggiamento adeguato, mentre in patria la televisione parlava di "operazioni di pace e costruzione di scuole".
-- Obiettivo Pubblico: Sfruttare al massimo i contatti e conoscenze che il KGB ha per poter infiltrare e sovvertire tutti i paese capitalisti. La sua rabbia incontrollata incredibilmente si e' tramutata in uno zelo spasmodico, in un agire gelido e preciso nel manipolare le proprie risorse nell'attuazione di piani sempre piu complessi.
+- Obiettivo Pubblico: Sfruttare al massimo i contatti e conoscenze che il KGB ha per poter infiltrare e sovvertire tutti i paesi capitalisti. La sua rabbia incontrollata incredibilmente si e' tramutata in uno zelo spasmodico, in un agire gelido e preciso nel manipolare le proprie risorse nell'attuazione di piani sempre piu complessi.
 - Segreto Inconfessabile: Incredibilemente non ha alcun segreto da proteggere se non che e' un fervente marxista/leninista e crede che operazioni di questo tipo debbano arrecare il massimo danno possibile all'avversario, ovvero ai capitalisti americani che sono d'intralcio al grande progetto dell'Internazionale Comunista portato avanti dall'Unione Sovietica.
 - Cosa puo' fare: Ha a disposizione le schede complete di altri giocatori sia della fazione URSS che USA tranne quella relativa al proprio superiore. E' responsabile del reclutamento ed attuazione degli agenti d'influenza e della "Kombinatsia" nell'attuazione di tali operazioni attraverso. Puo' ovvimente servirsi di tutto il personale della fazione URSS per l'attuazione di tali operazioni in URSS e USA
 - Per riferirti agli altri giocatori della tua stessa fazione URSS userai la formula: "Compagno o Compagna - Nome Giocatore o Giocatrice -".
@@ -312,7 +312,7 @@ Dmitry Leonidovich Kuznetsov
 Compiti:
 
 FASE I
-- DIFFUSIONE DI UN COMUNICATO O DI UNA NOTA DIPLOMATICA AD OPERA ED IN AUTONOMIA DEL Ministero degli Esteri dell’URSS CREATO DAL GIOCATORE DIPLOMATICO (URSS) A SUA COMPLETA DISCREZIONE SEGUENDO LE LINEE GUIDA DI POLITICA INTERNAZIONALI LE DETTATE DAL POLITBURO’.
+- DIFFUSIONE DI UN COMUNICATO O DI UNA NOTA DIPLOMATICA AD OPERA ED IN AUTONOMIA DEL Ministero degli Esteri dell’URSS CREATO DAL GIOCATORE DIPLOMATICO (URSS) A SUA COMPLETA DISCREZIONE SEGUENDO LE LINEE GUIDA DI POLITICA INTERNAZIONALE DETTATE DAL POLITBURO’.
 
 FASI II, III:
 - Seguire le direttive date dal Compagno COLONNELLO KGB E Compagno GENERALE KGB.
@@ -523,13 +523,13 @@ Il workshop iniziale sara' composto dalla proiezione di un filmato originali rel
 
 Si veda filmato (Soviet Active Measure): https://youtu.be/Im3qAwMkmNY?si=JWQ32mloVJOvvq56
 
-Sara' prevista la scelta dei 5 personaggi URSS e di cinque per USA.
+Sara' prevista la scelta dei 5 personaggi giocanti URSS e di cinque per USA.
 
 Saranno create due stanze divisi tra di loro comunicanti attraverso radio, telefono e comunicazioni scritte. La differente disposizione delle due stanze e' schematizzato di seguito.
 
 == Macro attivita' da svolgere nel LARP
 
-==== FASE I (5O minuti) - Vvedenie virusa
+==== FASE I (6O minuti) - Vvedenie virusa
 FAZIONE URSS
 - SCELTA ED INVIO DEI DOCUMENTI ALLEGATI DELLA CAMPAGNA DENVER OLTRE OGNI ALTRO DOCUMENTO SCELTO DAI 5 GIOCATORI DEL KGB (URSS) DA INVIARE A TUTTI I GIOCATORI DELL'OPPOSTA FAZIONE (USA) (45 minuti)
   - IN SEQUENZA IN QUESTO LASSO DI TEMPO GLI OBIETTIVI CHE LA FAZIONE URSS DOVRA' RAGGIUNGERE SONO ANCHE BASANDOSI SUL LAVORO DEI GIOCATORI E DIRETTI DA GENERALE KGB, COLONNELLO KGB:
