@@ -1,6 +1,6 @@
 # ActiveMeasure — Manuali
 
-Repository dedicata ai manuali di **Activev Measure**.
+Repository dedicata ai manuali del Chamber LARP/EDU LARP/Serious Game **Active Measure**.
 
 ## Documentazione
 
