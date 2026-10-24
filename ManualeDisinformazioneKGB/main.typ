@@ -215,7 +215,12 @@ Le misure attive combinavano quindi una serie di metodi e mezzi operativi per ra
 - Dezinformatsiya — disinformazione.
 - Mokryye dela — "affari bagnati" (wet affairs) o assassinii, sabotaggio e rapimenti.
 - Aktivnyye akty — azione diretta, un termine successivo per descrivere gli "affari bagnati".
-- Kombinatsiya — combinazione di metodi che riflette la preferenza sovietica per operazioni complesse che combinano mezzi e metodi nel tempo e nello spazio per raggiungere un obiettivo.   
+- Kombinatsiya — combinazione di metodi che riflette la preferenza sovietica per operazioni complesse che combinano mezzi e metodi nel tempo e nello spazio per raggiungere un obiettivo.
+
+#figure(
+  image("/images/imagen-pegada-2.png"),
+  caption: [Schematizzazione delle diverse forme di M.A.],
+) <fig:imagen-pegada-2>
 
 Fa eco con una proficua sintesi di quanto fin qui esposto il libro “The KGB and Soviet Disinformation”:
 
@@ -231,7 +236,7 @@ Lo scopo generale delle Misure Attive puo' essere quindi riassunto in quello che
 - (*Distort*) Distorcere: distorcere la narrazione. Prendi informazioni, o artefatti come immagini, e cambia l'inquadratura attorno ad essi.
 - (*Distract*) Distrarre: sposta l'attenzione su una narrazione o un attore diverso, ad esempio accusando i critici della stessa attivita' di cui ti hanno accusato (ad esempio brutalita' della polizia).
 - (*Dismay*) Sgomento: minacciare il critico o il narratore degli eventi. Ad esempio, minacciare giornalisti o organi di stampa che riportano una storia.
-- (Divide) Dividere: creare conflitto tra sottogruppi, per ampliare le divisioni in una comunita' locale, nazionale od internazionale.
+- (*Divide*) Dividere: creare conflitto tra sottogruppi, per ampliare le divisioni in una comunita' locale, nazionale od internazionale.
 
 Le narrazioni sono le storie che raccontiamo a noi stessi su chi siamo, a chi apparteniamo e cosa sta succedendo nel mondo. Le narrazioni possono essere personali, o narrazioni di gruppo, o la base di cio' che crediamo di essere come nazioni. Le 5D vengono solitamente utilizzate per influenzare le narrazioni a livello di stato-nazione.
 
@@ -342,7 +347,6 @@ Mentre le Misure Attive forniscono gli *strumenti pratici e le reti di diffusion
 == 4. Sintesi Strategica
 
 In conclusione, il Controllo Riflessivo rappresenta la dimensione intellettuale della guerra d'informazione sovietica. Esso sfrutta la trasparenza e l'apertura delle societa' democratiche per volgere le loro stesse dinamiche interne e i loro valori contro di esse. Attraverso la diffusione sintonizzata di disinformazione a mezzo di misure attive (agenti d'influenza, narrazioni divisive), la strategia sovietica punta a produrre una paralisi decisionale o scelte autodistruttive negli avversari, senza necessita' di ricorrere al confronto militare diretto per ottenere la vittoria politica.
-
 
 = Alcuni esempi reali di “Misure Attive”
 
