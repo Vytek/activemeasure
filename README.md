@@ -1,5 +1,7 @@
 # ActiveMeasure — Manuali
 
+![Logo Active Measure](Logo/logo.png)
+
 Repository dedicata ai manuali del Chamber LARP/EDU LARP/Serious Game **Active Measure**.
 
 ## Documentazione
