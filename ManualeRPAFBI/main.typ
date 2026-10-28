@@ -2,7 +2,7 @@
 #set page(
   paper: "a4",
   margin: (x: 1.0cm, y: 2.5cm),
-  fill: rgb("#f4ecd8") // Vintage aged paper color
+  //fill: rgb("#f4ecd8") // Vintage aged paper color
 )
 
 #set text(
